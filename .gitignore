@@ -12,8 +12,7 @@
 /build
 
 /uploads
-api/uploads
-api/node_modules
+
 # misc
 .DS_Store
 .env.local
